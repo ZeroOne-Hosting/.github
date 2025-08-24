@@ -1,6 +1,6 @@
 # ZeroOne Hosting  
 
-**“Three nines are enough.”**  
+**“Three nines are enough....Right?”**  
 
 ZeroOne Hosting is the garage-born shrine to uptime, entropy, and late-night Taco Bell runs. Conceived in Kelso, Washington, after a man’s fortune was devoured by cabling contractors, ZeroOne endures as a reminder that not all datacenters are fortresses — some are garages with questionable power, northwestern reptiles, and duct-taped racks.  
 
