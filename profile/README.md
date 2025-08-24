@@ -6,26 +6,8 @@ ZeroOne Hosting is the garage-born shrine to uptime, entropy, and late-night Tac
 
 Where others promise perfection, ZeroOne embraces reality: uptime is a prayer, not a guarantee.  
 
----
 
-## The Site  
-
-Our neon-stained synthwave corner of the internet:  
-🔗 [ZeroOne Website](https://zeroone.traefikturkey.com/)  
-
-The codebase is openly duct-taped together here:  
-🔗 [zeroone-site](https://github.com/ZeroOne-Hosting/zeroone-site)  
-
----
-
-## Philosophy  
-
-> *“Mock not the garage-born shrine.  
-> For though its amps flicker and its floors creak,  
-> it whispers a lesson we all must heed:  
-> uptime is a prayer, not a promise.”*  
-
-ZeroOne Hosting exists to remind us all:  
-- Every server is mortal.  
-- Every rack will someday fall silent.  
-- But until then — we host.  
+|  |  |
+| --- | --- |
+| Our neon-stained synthwave corner of the internet:<br>🔗 [ZeroOne Website](https://zeroone.traefikturkey.com/) | The codebase is openly duct-taped together here:<br>🔗 [zeroone-site](https://github.com/ZeroOne-Hosting/zeroone-site) |
+| <em>Mock not the garage-born shrine.<br>For though its amps flicker and its floors creak,<br>it whispers a lesson we all must heed:<br>uptime is a prayer, not a promise.</em> | <ul><li>Every server is mortal.</li><li>Every rack will someday fall silent.</li><li>But until then — we host.</li></ul> |
