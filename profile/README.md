@@ -8,14 +8,6 @@ Where others promise perfection, ZeroOne embraces reality: uptime is a prayer, n
 
 ---
 
-## Service Tiers  
-
-- **Oops** – 50% uptime (give or take).  
-- **At Least We Tried** – Reboots when someone remembers.  
-- **Garage Premium** – Priority garage placement, possibly near the lawnmower.  
-
----
-
 ## The Site  
 
 Our neon-stained synthwave corner of the internet:  
