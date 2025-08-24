@@ -10,6 +10,8 @@ If three nines are enough, if rebooting an entire rack just to install vim sound
 
 Maybe you can host your shit on ZeroOne.
 
+---
+
 Witnesses claim Jeff from Craft Computing once drove past, shook his head, and muttered: “This is not best practice.”
 
 ---
