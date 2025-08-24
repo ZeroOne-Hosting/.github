@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="generation-64dd1dad-faf4-4890-bff8-10f74a0734e2" src="https://github.com/user-attachments/assets/b34adba7-9714-47e1-866f-198ba12ffbc5" />
+
 # ZeroOne Hosting  
 
 Ten years ago, in a town remembered for Mount St. Helens ashfall, a Denny’s that never closes, and the mighty Cowlitz Black Bears, one man was sentenced — by the voices in his head — to build a Tier IV hyperscale rack facility in his garage.
